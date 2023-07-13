@@ -1,0 +1,12 @@
+[
+ {
+  "first_name": "Clopotel",
+  "last_name": "Admin",
+  "email": "clopotel.admin@gmail.com",
+  "password": "c8d498a1cd7a0baeec2e50b59c026ac9ff743ac3200ac733ea19667092e74ac2",
+  "type": "Administrator",
+  "deviations": 1,
+  "status": "ok",
+  "auth_token": "b364afbf33"
+ }
+]

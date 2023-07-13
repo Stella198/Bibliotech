@@ -1,0 +1,28 @@
+[
+ {
+  "id": 1,
+  "book_name": "Coronavirus",
+  "book_author": "Wang Fang",
+  "book_description": "Vine starea de urgenta iar stati chill.",
+  "status": "available",
+  "rating": 0,
+  "reviews": {
+   "review_author": " ",
+   "rating": 0,
+   "text": " "
+  }
+ },
+ {
+  "id": 2,
+  "book_name": "Camino winds",
+  "book_author": "John Ghrisham",
+  "book_description": "a perfect crime",
+  "status": "borrowed",
+  "rating": 10.0,
+  "reviews": {
+   "review_author": "Clopotel",
+   "rating": 5,
+   "text": "A captivating novel"
+  }
+ }
+]
